@@ -6,8 +6,6 @@ This is a repository created by *Ryan*
 
 Run this command to execute the application:
 
-`python filename.py`
+```python
 print('something')
- 
-
-```
+ ```
