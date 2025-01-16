@@ -14,7 +14,7 @@
 
 
 def get_user_name():
-    return input("Please enter your name: ")
+    return input("Please type your name: ")
 
 def greet_user(name):
     print(f"Hello, {name}!")
